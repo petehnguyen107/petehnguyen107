@@ -10,14 +10,12 @@
   - [Create a Resource Group and Storage Account](https://github.com/petehnguyen107/azure-resource-groups)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/petehnguyen107/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/petehnguyen107/azure-network-protocol)
-  - [Observing Traffic in Virtual Machines](https://github.com/petehnguyen107/azure-network-protocol)
+  - [Creating VPN and Observing VPN IP addresses]((https://github.com/petehnguyen107/virtual-private-network))
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/Josh
-[instagram]: https://www.instagram.com/Josh
-[linkedin]: https://linkedin.com/in/Josh
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: https://www.linkedin.com/in/peter-nguyen-1067a1263/
