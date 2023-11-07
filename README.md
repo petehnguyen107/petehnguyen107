@@ -9,8 +9,8 @@
 - <b>Microsoft Azure</b>
   - [Create a Resource Group and Storage Account](https://github.com/petehnguyen107/azure-resource-groups)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/petehnguyen107/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/petehnguyen107/azure-network-protocols)
-  - [Observing Traffic in Virtual Machines](https://github.com/petehnguyen107/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/petehnguyen107/azure-network-protocol)
+  - [Observing Traffic in Virtual Machines](https://github.com/petehnguyen107/azure-network-protocol)
 
 <h2>🤳Connect with me:</h2>
 
